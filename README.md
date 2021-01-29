@@ -1,3 +1,3 @@
 # English for Designers
 
->[View Course Work](https://dudacek.github.io/english_for_designers)
+>[View Course Work](https://terezavanickova08.github.io/english-for-designers/)
