@@ -7,4 +7,3 @@
 ## Work
 - [Case Study](02-intentional-aboutness/case-study.md)
 - [Storytelling](05-presentation-storytelling/05-presentation-storytelling.md)
-- [Storytelling] (01-character-description/character-description.md)
