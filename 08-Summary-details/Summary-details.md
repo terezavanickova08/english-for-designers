@@ -41,6 +41,7 @@ In my theoretical part I wrote for example about history, I have also in my theo
 
 ### Merchendising
 I also create a bag design. This bag will be present for the firt twenty buyers. I work on the bag design with text from the book. In english i tis „We are getting on a long and long journey…“ And I also work with some photos and map from Blažej Homola born village – Rajhradice to the Siberia.
+
 <img src="./final images/taska-final.png" alt="taska-final.png" width="500"/>
 
 ### Launch
