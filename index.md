@@ -13,6 +13,6 @@
 - [Presentation](05-presentation-storytelling/tvanickova.presentation.pdf)
 ## Work - Summer semester
 - [Clarity first](clarity-first/Clarity first.md)
-- 
+
  
 
