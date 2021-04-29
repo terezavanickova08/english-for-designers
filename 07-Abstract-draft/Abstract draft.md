@@ -18,7 +18,8 @@ design which serve as promotion to the book. I mention here the preparation the 
 the print and comunication with the printer. The last point of my practical part is the
 chapter about book distribution.
 
-## - Keywords: Legionnaires, book design, diary, printed publication, prisoners, war
+## - Keywords: 
+Legionnaires, book design, diary, printed publication, prisoners, war
 
 <img src="./BP/cover.JPG" alt="cover" width="500"/>
 <img src="./BP/obalka.JPG" alt="obalka" width="500"/>
