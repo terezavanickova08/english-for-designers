@@ -15,7 +15,7 @@
 - [Clarity first](06-Clarity-first/Clarity-first.md)
 - [Abstract draft](07-Abstract-draft/Abstract-draft.md)
 - [Summary details](08-Summary-details/Summary-details.md)
-- [Presentation](09-Final presentation/09-Final presentation.pdf)
+- [Final presentation](09-Final presentation/09-Final presentation.pdf)
 
  
 
