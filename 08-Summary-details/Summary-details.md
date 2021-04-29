@@ -8,4 +8,4 @@ Diary of Rajhradice soldier: six years in Siberian captivity is a diary of my gr
 - Distribution of the book
 
 ### Moodboard
-<img src="./BP/cover.JPG" alt="cover" width="500"/>
+<img src="./final images/moodboard" alt="moodboard" width="500"/>
