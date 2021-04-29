@@ -1,3 +1,5 @@
+# Diary of Rajhradice soldier: Six years in Siberian captivity
+
 The diary of Rajhradice soldier: Six years in Siberian captivity reflect the life in captivity
 on Siberia during the First World War. Blaåej Homola was born in year 1880 and he was
 called in to the war 31.7.1914. On October 22, 1914, he was captured and reached Siberia,
@@ -16,5 +18,8 @@ design which serve as promotion to the book. I mention here the preparation the 
 the print and comunication with the printer. The last point of my practical part is the
 chapter about book distribution.
 
-- Keywords: Legionnaires, book design, diary, printed publication, prisoners, war
-<img src="./BP/cover.JPG" alt="cover" width="400"/>
+## - Keywords: Legionnaires, book design, diary, printed publication, prisoners, war
+
+<img src="./BP/cover.JPG" alt="cover" width="500"/>
+<img src="./BP/obalka.JPG" alt="obalka" width="500"/>
+<img src="./BP/hrbet.JPG" alt="hrbet" width="500"/>
