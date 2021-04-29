@@ -24,4 +24,7 @@ Diary of Rajhradice soldier: six years in Siberian captivity is a diary of my gr
 - Distribution of the book
 
 In my theoretical part I wrote for example about history, I have also in my theoretical part a interwiew with expert about this topic, I did also a analysis od the czech book market. I wrote to the book shops and they give me some information, next I wrote for exampe about advertising campaign, comunication and ofcourse about design and about print and distribution of the book.
+<img src="./final images/thesis.JPG" alt="thesis.JPG" width="500"/>
 
+### Book design
+<img src="./final images/thesis.JPG" alt="thesis.JPG" width="500"/>
