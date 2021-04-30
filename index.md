@@ -11,6 +11,7 @@
 - [Voice and tone](04-voice-tone/04-voice-tone.md)
 - [Storytelling](05-presentation-storytelling/05-presentation-storytelling.md)
 - [Presentation](05-presentation-storytelling/tvanickova.presentation.pdf)
+
 ## Work - Summer semester
 - [Clarity first](06-Clarity-first/Clarity-first.md)
 - [Abstract draft](07-Abstract-draft/Abstract-draft.md)
